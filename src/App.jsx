@@ -12,7 +12,7 @@ const App = () => (
   />
   {/* <Route path="/payment" element={<Payment/>}/> */}
 </Routes>
-</Router>
+</Router> 
  </div>
 );
 
